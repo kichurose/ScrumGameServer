@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\ScrumGame\\ScrumGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\contracts\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\contracts\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\contracts\\roominfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\contracts\\roominfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\datastore\\userinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\datastore\\userinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\datastore\\iuserinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\datastore\\iuserinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\services\\roomsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\services\\roomsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\datastore\\roominfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\datastore\\roominfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\datastore\\iroominfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\datastore\\iroominfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\models\\roominfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\models\\roominfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\services\\interfaces\\iroomsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\services\\interfaces\\iroomsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\scrumgame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\scrumgame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|c:\\c#\\scrumgame\\scrumgame\\scrumgame\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D4F60C-50D5-4177-A0ED-5D328DA67483}|ScrumGame\\ScrumGame.csproj|solutionrelative:scrumgame\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "ScrumGame\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:31:02.118Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\appsettings.json",
+              "RelativeDocumentMoniker": "ScrumGame\\appsettings.json",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\appsettings.json",
+              "RelativeToolTip": "ScrumGame\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T17:48:26.17Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ScrumGame\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:23:44.041Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserInfoContext.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\DataStore\\IUserInfoContext.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\DataStore\\IUserInfoContext.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\DataStore\\IUserInfoContext.cs",
+              "RelativeToolTip": "ScrumGame\\DataStore\\IUserInfoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:30:32.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ScrumGame\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:56:14.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Contracts\\UserInfo.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\Contracts\\UserInfo.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Contracts\\UserInfo.cs",
+              "RelativeToolTip": "ScrumGame\\Contracts\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:49:35.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomInfo.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Contracts\\RoomInfo.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\Contracts\\RoomInfo.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Contracts\\RoomInfo.cs",
+              "RelativeToolTip": "ScrumGame\\Contracts\\RoomInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:54:10.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Program.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\Program.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Program.cs",
+              "RelativeToolTip": "ScrumGame\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAASwDkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:38:02.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\Models\\UserInfo.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Models\\UserInfo.cs",
+              "RelativeToolTip": "ScrumGame\\Models\\UserInfo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:51:38.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserInfoContext.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\DataStore\\UserInfoContext.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\DataStore\\UserInfoContext.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\DataStore\\UserInfoContext.cs",
+              "RelativeToolTip": "ScrumGame\\DataStore\\UserInfoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:49:52.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\Services\\UserService.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Services\\UserService.cs",
+              "RelativeToolTip": "ScrumGame\\Services\\UserService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:26:39.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "ScrumGame\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:26:50.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoomsService.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Services\\RoomsService.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\Services\\RoomsService.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Services\\RoomsService.cs",
+              "RelativeToolTip": "ScrumGame\\Services\\RoomsService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:44:06.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoomInfoContext.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\DataStore\\RoomInfoContext.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\DataStore\\RoomInfoContext.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\DataStore\\RoomInfoContext.cs",
+              "RelativeToolTip": "ScrumGame\\DataStore\\RoomInfoContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:23:07.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\DependencyInjection.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\DependencyInjection.cs",
+              "RelativeToolTip": "ScrumGame\\DependencyInjection.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:54:49.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRoomInfoContext.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\DataStore\\IRoomInfoContext.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\DataStore\\IRoomInfoContext.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\DataStore\\IRoomInfoContext.cs",
+              "RelativeToolTip": "ScrumGame\\DataStore\\IRoomInfoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:29:59.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ScrumGame\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ScrumGame\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T15:14:33.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRoomsService.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Services\\Interfaces\\IRoomsService.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\Services\\Interfaces\\IRoomsService.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Services\\Interfaces\\IRoomsService.cs",
+              "RelativeToolTip": "ScrumGame\\Services\\Interfaces\\IRoomsService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvw8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:44:33.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomInfo.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Models\\RoomInfo.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\Models\\RoomInfo.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Models\\RoomInfo.cs",
+              "RelativeToolTip": "ScrumGame\\Models\\RoomInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:44:18.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScrumGame.csproj",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\ScrumGame.csproj",
+              "RelativeDocumentMoniker": "ScrumGame\\ScrumGame.csproj",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\ScrumGame.csproj",
+              "RelativeToolTip": "ScrumGame\\ScrumGame.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T18:00:53.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ScrumGame\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\C#\\ScrumGame\\ScrumGame\\ScrumGame\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ScrumGame\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:30:13.252Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
