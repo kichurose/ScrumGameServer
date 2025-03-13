@@ -3,9 +3,6 @@ using System.Security.Claims;
 using System.Text;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
-using ScrumGame.Contracts;
-using ScrumGame.Models;
-using ScrumGame.Services;
 using ScrumGame.Services.Interfaces;
 
 namespace ScrumGame.Controllers
